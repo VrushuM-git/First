@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="51224" started-at="2020-06-15T08:22:21Z" finished-at="2020-06-15T08:23:12Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="51224" started-at="2020-06-15T08:22:21Z" finished-at="2020-06-15T08:23:12Z">
+      <class name="com.Qfix_Payment.com.Qfix_Payment.Payment">
+        <test-method status="PASS" signature="Launchbrowser()[pri:0, instance:com.Qfix_Payment.com.Qfix_Payment.Payment@61832929]" name="Launchbrowser" is-config="true" duration-ms="37345" started-at="2020-06-15T13:52:21Z" finished-at="2020-06-15T13:52:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Launchbrowser -->
+        <test-method status="PASS" signature="A_Login()[pri:1, instance:com.Qfix_Payment.com.Qfix_Payment.Payment@61832929]" name="A_Login" duration-ms="13518" started-at="2020-06-15T13:52:59Z" finished-at="2020-06-15T13:53:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- A_Login -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:com.Qfix_Payment.com.Qfix_Payment.Payment@61832929]" name="afterTest" is-config="true" duration-ms="0" started-at="2020-06-15T13:53:12Z" finished-at="2020-06-15T13:53:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- com.Qfix_Payment.com.Qfix_Payment.Payment -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
